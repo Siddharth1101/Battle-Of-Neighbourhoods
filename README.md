@@ -3,6 +3,6 @@ This repository is mainly used for the Data Science capstone project. The final 
 
 To view all the neighbourhoods in Bengaluru, please open the image: Neighbourhoods.png
 
-To view the map of clustered shopping malls in Bangalore, please open the image: Clusters.png
+To view the map of clustered shopping malls in Bangalore, please open the image: [Clusters.png]https://github.com/Siddharth1101/Battle-Of-Neighbourhoods/blob/master/Clusters.png
 
 For the map K-means clustering map of Toronto as part of 'Segmenting and Clustering Neighborhoods in Toronto', please view the map as a png image uploaded as 'K-means clustering map.png'
