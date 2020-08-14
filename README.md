@@ -1,7 +1,7 @@
 # Coursera_Capstone
 This repository is mainly used for the Data Science capstone project. The final project is about making a smart choice in opening a new shopping mall in Bengaluru, Karnataka depending on the existing frequency of malls in the vicinity of 5km.
 
-To view all the neighbourhoods in Bengaluru, please open the image: Neighbourhoods.png
+To view all the neighbourhoods in Bengaluru, please open the image: [Neighbourhoods.png]https://github.com/Siddharth1101/Battle-Of-Neighbourhoods/blob/master/Neighbourhoods.png
 
 To view the map of clustered shopping malls in Bangalore, please open the image: [Clusters.png]https://github.com/Siddharth1101/Battle-Of-Neighbourhoods/blob/master/Clusters.png
 
