@@ -7,4 +7,4 @@ To view the map of clustered shopping malls in Bangalore, please open the image:
 
 ![The Clustered Map of Bengaluru](https://github.com/Siddharth1101/Battle-Of-Neighbourhoods/blob/master/Clusters.png "Title")
 
-For the map K-means clustering map of Toronto as part of 'Segmenting and Clustering Neighborhoods in Toronto', please view the map as a png image uploaded at: K-means Clustering map.png(https://github.com/Siddharth1101/Battle-Of-Neighbourhoods/blob/master/K-means%20clustering%20map.png)
+For the map K-means clustering map of Toronto as part of 'Segmenting and Clustering Neighborhoods in Toronto', please view the map as a png image uploaded at: [K-means Clustering map.png](https://github.com/Siddharth1101/Battle-Of-Neighbourhoods/blob/master/K-means%20clustering%20map.png)
